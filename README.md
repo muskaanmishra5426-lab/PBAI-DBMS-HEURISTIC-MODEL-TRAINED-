@@ -128,8 +128,6 @@ st.markdown("""
 2. **Banker's Algorithm Hybrid**: Threshold-based safety verification inspired by Banker's Algorithm
 3. **Zero-Dependency**: Pure Python implementation for resource-constrained DBMS environments
 
-**Author:** Muskaan Mishra | BCA Final Year
-**License:** MIT | **GitHub:** [Link]
 **Innovation:** World's First Zero-Dependency Hybrid AI + Banker's Algorithm
 """)
 
